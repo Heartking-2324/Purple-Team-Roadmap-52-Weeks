@@ -34,7 +34,7 @@ Each week focuses on:
 
 ## Weeks 1–4: Foundation & Identity
 
-### Week 1
+### [Week 1](https://github.com/Heartking-2324/Purple-Team-Roadmap-52-Weeks/tree/main/Week-01-Foundation-Lab)
 - Finalize role focus: **Purple Team Engineer**
 - Setup:
   - Linux lab (VMs)
